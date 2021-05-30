@@ -11,3 +11,4 @@ To run the notebook you need the following packages:
 * Vega_datasets
 
 ### Example of a scatter plot made in Altair
+![](scatter_plot.png)
